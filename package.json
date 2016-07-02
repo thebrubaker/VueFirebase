@@ -1,0 +1,28 @@
+{
+  "name": "vue-firebase",
+  "version": "1.0.0",
+  "description": "A Vue plugin for Google Firebase",
+  "main": "dist/vue-firebase.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thebrubaker/vuefirebase.git"
+  },
+  "keywords": [
+    "vue",
+    "firebase",
+    "vue.js"
+  ],
+  "author": "Joel Brubaker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thebrubaker/vuefirebase/issues"
+  },
+  "homepage": "https://github.com/thebrubaker/vuefirebase#readme",
+  "dependencies": {
+    "firebase": "^3.1.0",
+    "vue": "^1.0.26"
+  }
+}
